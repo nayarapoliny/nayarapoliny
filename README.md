@@ -26,9 +26,8 @@
 
 ✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
 
-📚 Lendo: [Livro que está lendo atualmente]
 
-### Eu já trabalhei com... 🔧
+### I have already developed with... 🔧
 
 **Technologies and Tools**
 
