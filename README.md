@@ -25,8 +25,6 @@
 - **Change management**
 - **Continuous Improvement**
 
-✒️ I like in my free time [Coisas que você gosta de fazer no tempo livre];
-
 
 ### I have already developed with... 🔧
 
