@@ -1,32 +1,28 @@
-# Oi, me chamo Nayara Poliny 👋
+# Hi, my name is Nayara Poliny 👋
 
-### Sobre mim
+### About me
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
-
-
-
-🎓 Eu estudo [[ Ciência Da Computação](https://www.una.br/graduacao/ciencia-da-computacao/?gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgoh1EFT9W5Pfa3Qmj3_Vhd82KP_618DLdfDVz-nla6B2vYbiAVYpEpBoCyaQQAvD_BwE) ] @ [Una](https://www.una.br/)]
-🎓 Eu sou Formada  [[ Análise E Desenvolvimento De Sistemas - Tecnólogo](https://www.una.br/graduacao/analise-e-desenvolvimento-de-sistemas/) ] @ [ [Una](https://www.una.br/)]
+💻 I am aspiring in development Fullstack
 
 
 
+🎓 I study [Computer Science](https://www.una.br/graduacao/ciencia-da-computacao/?gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgoh1EFT9W5Pfa3Qmj3_Vhd82KP_618DLdfDVz-nla6B2vYbiAVYpEpBoCyaQQAvD_BwE) @[Una](https://www.una.br/)
 
-👩‍💻 Atualmente eu trabalho como Analista de gestão de ativos @Stefanini Brasil
+🎓 I have a degree in [Systems Analysis and Development - Technologist](https://www.una.br/graduacao/analise-e-desenvolvimento-de-sistemas/) @[Una](https://www.una.br/)
 
-🔎 Também sou curioso sobre 
+👩‍💻 Currently I work as an Asset Management Analyst @[Stefanini Brasil](https://stefanini.com/pt-br)
 
-**Web development**
-- **Análise de Requisitos** 
-- **Metodologia Ágil**
-- **Gestão de Equipe**
-- **Ferramentas de Gestão de Projetos**
-- **Definição de Objetivos**
-- **Qualidade**
+🔎 I'm curious about 
+- **Requirements Analysis** 
+- **Agile Methodology**
+- **Team Management**
+- **Project Management Tools**
+- **Definition of Objectives**
+- **Quality**
 - **Scrum**
 - **Kanban**
-- **Gestão de Mudanças**
-- **Melhoria Contínua**
+- **Change management**
+- **Continuous Improvement**
 
 ✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
 
