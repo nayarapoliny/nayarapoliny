@@ -48,9 +48,6 @@ Technologies and tools that I used/use in studies...🧩
 ![XAMPP](https://img.shields.io/badge/xampp-%23ED8B00.svg?style=flat-square&logo=xampp&logoColor=white)
 
 
-### Cursos realizados 🤓
-
-
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/nayarapoliny">
