@@ -8,7 +8,7 @@
 
 🎓 I have a postgraduate degree in [IT Project Management and Agile Methodologies - MBA](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) @[Una](https://www.una.br/)
 
-👩‍💻 Currently I work as an Asset Management Analyst @[Stefanini Brasil](https://stefanini.com/pt-br)
+👩‍💻 I worked as a Project Assistant at @[MRV&CO](https://www.mrv.com.br/)
 
 🔎 I'm curious about 
 - **Requirements Analysis** 
