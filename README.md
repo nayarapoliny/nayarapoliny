@@ -4,9 +4,6 @@
 
 💻 I'm a Fullstack development enthusiast
 
-
-🎓 I study [Computer Science](https://www.una.br/graduacao/ciencia-da-computacao/?gad_source=1&gclid=CjwKCAjwmrqzBhAoEiwAXVpgoh1EFT9W5Pfa3Qmj3_Vhd82KP_618DLdfDVz-nla6B2vYbiAVYpEpBoCyaQQAvD_BwE) @[Una](https://www.una.br/)
-
 🎓 I have a degree in [Systems Analysis and Development - Technologist](https://www.una.br/graduacao/analise-e-desenvolvimento-de-sistemas/) @[Una](https://www.una.br/)
 
 🎓 I have a postgraduate degree in [IT Project Management and Agile Methodologies - MBA](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) @[Una](https://www.una.br/)
