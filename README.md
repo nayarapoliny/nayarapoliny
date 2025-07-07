@@ -8,7 +8,7 @@
 
 🎓 I have a postgraduate degree in [IT Project Management and Agile Methodologies - MBA](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) @[Una](https://www.una.br/)
 
-👩‍💻 I worked as a JR Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
+👩‍💻 I work as a JR Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
 
 🔎 I'm curious about 
 - **Requirements Analysis** 
