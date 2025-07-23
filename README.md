@@ -1,6 +1,6 @@
 # Hi, my name is Nayara Poliny 👋
 
-I'm a Fullstack Developer passionate about creating solutions and learning new technologies.
+I'm a Jr Fullstack Developer passionate about creating solutions and learning new technologies.
 
 ### About me
 
@@ -8,7 +8,7 @@ I'm a Fullstack Developer passionate about creating solutions and learning new t
 
 🎓 Postgraduate in [IT Project Management and Agile Methodologies](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) (MBA) from @[Una](https://www.una.br/)
 
-👩‍💻 Currently working as a JR Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
+👩‍💻 Currently working as a Jr. Fullstack Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
 
 ### 🔧 Technologies & Tools
 
