@@ -1,6 +1,6 @@
 # Hi, my name is Nayara Poliny 👋
 
-I'm a Jr Fullstack Developer passionate about creating solutions and learning new technologies.
+I'm a Fullstack Developer passionate about creating solutions and learning new technologies.
 
 ### About me
 
