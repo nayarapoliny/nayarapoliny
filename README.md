@@ -5,7 +5,10 @@ I'm a Fullstack Developer passionate about creating solutions and learning new t
 ### About me
 
 🎓 Graduate in [Systems Analysis and Development](https://www.una.br/graduacao/analise-e-desenvolvimento-de-sistemas/) from @[Una](https://www.una.br/)
-🎓 Postgraduate in [IT Project Management and Agile Methodologies](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) (MBA) from @[Una](https://www.una.br/)
+
+🎓 Postgraduate in [IT Project Management and Agile Methodologies](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) (MBA) from @[Una]
+(https://www.una.br/)
+
 👩‍💻 Currently working as a Jr Fullstack Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
 
 ### 🔧 Technologies & Tools
