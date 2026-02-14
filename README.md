@@ -1,59 +1,154 @@
-# Hi, my name is Nayara Poliny 👋
+<!-- =========================================================
+     NAYARA POLINY • GITHUB PROFILE README
+     Purple Gradient Theme • HTML Safe Version (PT-BR)
+========================================================= -->
 
-I'm a Fullstack Developer passionate about creating solutions and learning new technologies.
-
-### About me
-
-🎓 Graduate in [Systems Analysis and Development](https://www.una.br/graduacao/analise-e-desenvolvimento-de-sistemas/) from [Una](https://www.una.br/)
-
-🎓 Postgraduate in [IT Project Management and Agile Methodologies](https://pos.una.br/cursos/gestao-de-projetos-de-ti-e-metodologias-ageis) (MBA) from @[Una](https://www.una.br/)
-
-👩‍💻 Currently working as a Fullstack Developer at [IBRA Outplacement & Community](https://ibrabr.com.br/)
-
-### 🔧 Technologies & Tools
-
-<p>
-  <strong>Languages & Stacks:</strong><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/php-%23007ACC.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Progress-5C2D91?style=for-the-badge&logo=progress&logoColor=white" alt="Progress"/>
-</p>
-<p>
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
+<!-- BANNER TOPO (ROXO DEGRADÊ) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Nayara%20Poliny&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Fullstack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0F0C29,50:5C2D91,100:8A2BE2"
+  />
 </p>
 
-### 🔎 Interests
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+entregas+com+prop%C3%B3sito.;Criando+solu%C3%A7%C3%B5es+eficientes+com+qualidade+e+impacto."
+    alt="Texto animado"
+  />
+</p>
 
-I have a great interest in methodologies and practices that optimize software development and team management. My main areas of study are:
-
-- **Agile Methodologies:** Scrum and Kanban
-- **Project Management:** Requirements Analysis, Management Tools, and Goal Definition
-- **Processes & Quality:** Change Management and Continuous Improvement
-
-### ⚡ GitHub Stats
-
-<div>
-  <a href="https://github.com/nayarapoliny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarapoliny&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayarapoliny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nayarapoliny/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/nayarapoliny" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/naay.rar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<hr/>
+
+<h2>🧠 Sobre mim</h2>
+
+<ul>
+  <li><b>Atuação:</b> Desenvolvedora <b>Fullstack</b>.</li>
+  <li><b>Formação:</b> Graduada em <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  <li><b>Pós-graduação:</b> MBA em <b>Gestão de Projetos de TI e Metodologias Ágeis</b>.</li>
+  <li><b>Perfil:</b> Apaixonada por criar soluções eficientes, escaláveis e com propósito.</li>
+  <li><b>Stack principal:</b> HTML5, Vue, JavaScript, TypeScript, Node, PHP, Laravel e Progress.</li>
+  <li><b>Local:</b> Belo Horizonte - MG e região metropolitana — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+</ul>
+
+<pre>
+const nayaraPoliny = {
+  cargo: "Fullstack Developer",
+  local: "Belo Horizonte - MG, Brasil",
+  
+  stacks: [
+    "HTML5",
+    "Vue.js",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "PHP",
+    "Laravel",
+    "Progress"
+  ],
+
+  objetivo:
+    "Transformar ideias em soluções reais que gerem valor, impacto e crescimento."
+};
+</pre>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
+
+<div align="center">
+
+<h4>💻 Linguagens & Stacks</h4>
+
+<img src="https://skillicons.dev/icons?i=html,vue,js,ts,nodejs,php,laravel" />
+
+<br><br>
+
+<h4>🛠️ Ferramentas</h4>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" />
+
 </div>
 
-### 📭 Contact
+<hr/>
 
-<div> 
-  <a href="https://www.linkedin.com/in/nayarapoliny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/naay.rar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/naaycalazans" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+<h2>📊 Estatísticas GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=nayarapoliny&show_icons=true&hide_border=true&theme=tokyonight"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayarapoliny&layout=compact&hide_border=true&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=nayarapoliny&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberta a oportunidades</h2>
+
+<pre>
+
+Cargos:
+
+- Desenvolvedora Fullstack
+- Desenvolvedora Backend
+- Desenvolvedora Frontend
+
+Modelo:
+
+- Remoto
+- Híbrido
+- Presencial
+
+Local:
+
+Belo Horizonte - MG e região metropolitana — Brasil
+
+</pre>
+
+<hr/>
+
+<h2>💬 Vamos nos conectar</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/nayarapoliny/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/nayarapoliny" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+<!-- BANNER RODAPÉ (ROXO) -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Transformando%20ideias%20em%20realidade&fontColor=FFFFFF&fontSize=34&color=0:0F0C29,50:5C2D91,100:8A2BE2"
+  />
+</p>
