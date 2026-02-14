@@ -20,16 +20,28 @@
 
 <!-- BOTÕES TOPO -->
 <p align="center">
+
   <a href="https://www.linkedin.com/in/nayarapoliny/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="mailto:nayarapolinydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://github.com/nayarapoliny" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/naay.rar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
 </p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayarapoliny&label=Profile%20Views&color=8A2BE2" />
+  <img src="https://img.shields.io/github/followers/nayarapoliny?label=Followers&color=5C2D91" />
+  <img src="https://img.shields.io/github/stars/nayarapoliny?label=Stars&color=5C2D91" />
+</p>
+
 
 <hr/>
 
@@ -67,23 +79,41 @@ const nayaraPoliny = {
 
 <hr/>
 
+<hr/>
+
 <h2>🧩 Stack tecnológica</h2>
 
 <div align="center">
 
-<h4>💻 Linguagens & Stacks</h4>
+<h4>💻 Linguagens</h4>
 
-<img src="https://skillicons.dev/icons?i=html,vue,js,ts,nodejs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
 
 <br><br>
 
-<h4>🛠️ Ferramentas</h4>
+<h4>🧱 Backend & Arquitetura</h4>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
+
+<br><br>
+
+<h4>🎨 Frontend & Design</h4>
+
+<img src="https://skillicons.dev/icons?i=vue,html,js,ts,figma,sass" />
+
+<br><br>
+
+<h4>🗄️ Banco de dados</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+<br><br>
+
+<h4>☁️ Cloud, DevOps & Ferramentas</h4>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,azure,aws" />
 
 </div>
-
-<hr/>
 
 <h2>📊 Estatísticas GitHub</h2>
 
