@@ -50,7 +50,7 @@
   <li><b>Pós-graduação:</b> MBA em <b>Gestão de Projetos de TI e Metodologias Ágeis</b>.</li>
   <li><b>Perfil:</b> Apaixonada por criar soluções eficientes, escaláveis e com propósito.</li>
   <li><b>Stack principal:</b> HTML5, Vue, JavaScript, TypeScript, Node, PHP, Laravel e Progress.</li>
-  <li><b>Local:</b> Belo Horizonte - MG e região metropolitana — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+  <li><b>Local:</b> Belo Horizonte - MG | <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
 
 <pre>
