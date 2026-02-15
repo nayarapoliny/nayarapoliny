@@ -76,7 +76,6 @@ const nayaraPoliny = {
 
 
 <h2>🧩 Stack tecnológica</h2>
-<br><br>
 
 <div align="center">
 
