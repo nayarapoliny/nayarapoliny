@@ -82,6 +82,7 @@ const nayaraPoliny = {
 <hr/>
 
 <h2>🧩 Stack tecnológica</h2>
+<br><br>
 
 <div align="center">
 
@@ -89,25 +90,17 @@ const nayaraPoliny = {
 
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
 
-<br><br>
-
 <h4>🧱 Backend & Arquitetura</h4>
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 
-<br><br>
-
 <h4>🎨 Frontend & Design</h4>
 
-<img src="https://skillicons.dev/icons?i=vue,html,js,ts,figma,sass" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=vue,html,js,ts,figma " />
 
 <h4>🗄️ Banco de dados</h4>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<br><br>
 
 <h4>☁️ Cloud, DevOps & Ferramentas</h4>
 
