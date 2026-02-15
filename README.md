@@ -42,8 +42,6 @@
   <img src="https://img.shields.io/github/stars/nayarapoliny?label=Stars&color=5C2D91" />
 </p>
 
-<hr/>
-
 <h2>🧠 Sobre mim</h2>
 
 <ul>
