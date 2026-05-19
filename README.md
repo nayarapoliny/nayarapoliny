@@ -81,7 +81,7 @@ const nayaraPoliny = {
 
 <h4>💻 Linguagens</h4>
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,golang,kotlin" />
 
 <h4>🧱 Backend & Arquitetura</h4>
 
