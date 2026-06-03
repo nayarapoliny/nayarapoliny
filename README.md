@@ -61,6 +61,8 @@ const nayaraPoliny = {
   stacks: [
     "HTML5",
     "Vue.js",
+     "golang",
+     "kotlin",
     "JavaScript",
     "TypeScript",
     "Node.js",
