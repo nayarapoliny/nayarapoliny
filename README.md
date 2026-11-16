@@ -104,47 +104,6 @@ const nayaraPoliny = {
 
 <hr/>
 
-<h2>🚀 Projetos em Destaque (Golang & Arquitetura Backend)</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Stack & Padrões</th>
-      <th>Destaques de Engenharia</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/nayarapoliny/go-rate-limiter-middleware"><b>🛡️ Go Rate Limiter & Telemetry</b></a></td>
-      <td><code>Go 1.23</code> <code>Token Bucket</code> <code>Linux /proc</code> <code>Mutex</code></td>
-      <td>Middleware HTTP de alta performance (IP & API Key), prevenção de Memory Leak (TTL) e telemetria real-time de CPU e RAM (<code>0.29 MB</code> heap).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nayarapoliny/go-concurrent-crawler"><b>🕷️ Go Concurrent Web Crawler</b></a></td>
-      <td><code>Go 1.23</code> <code>Goroutines</code> <code>Channels</code> <code>Context</code></td>
-      <td>Motor de crawling concorrente com <i>Worker Pools</i> controlados por semáforo, deduplicação Thread-Safe (<code>RWMutex</code>) e testes com detector <code>-race</code>.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nayarapoliny/go-library-api"><b>📚 Go Library Management API</b></a></td>
-      <td><code>Go 1.23</code> <code>REST API</code> <code>PostgreSQL</code> <code>Clean Arch</code></td>
-      <td>Arquitetura em camadas com Injeção de Dependência explícita, filtros dinâmicos multi-parâmetro e encerramento seguro (<i>Graceful Shutdown</i>).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nayarapoliny/go-ai-assistant-bot"><b>🤖 Go AI Assistant Bot</b></a></td>
-      <td><code>Go 1.23</code> <code>Gemini API</code> <code>Microservice</code> <code>CLI</code></td>
-      <td>Gestão de memória conversacional <i>Thread-Safe</i> por sessão, resiliência com <i>Exponential Backoff Retry</i> e interface híbrida HTTP/CLI.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nayarapoliny/go-aws-lambda-serverless"><b>☁️ Go AWS Lambda Serverless</b></a></td>
-      <td><code>Go 1.23</code> <code>AWS Lambda</code> <code>API Gateway</code> <code>AWS SAM</code></td>
-      <td>Handler Serverless otimizado para arquitetura <code>ARM64</code> (<code>provided.al2023</code>), Infraestrutura como Código (<code>template.yaml</code>) e simulador local.</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr/>
-
 <h2>📊 Estatísticas GitHub</h2>
 
 <p align="center">
